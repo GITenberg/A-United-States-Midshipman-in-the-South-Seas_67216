@@ -7,12 +7,17 @@ contributor:
     deathdate: 1952
     gutenberg_agent_id: '34848'
     url: http://www.gutenberg.org/2009/agents/34848
+covers:
+- cover_type: archival
+  image_path: 67216-h/images/cover.jpg
 creator:
   author:
     agent_name: Stirling, Yates
     gutenberg_agent_id: '54159'
     url: http://www.gutenberg.org/2009/agents/54159
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67216#A-United-States-Midshipman-in-the-South-Seas
 gutenberg_issued: '2022-01-22'
 identifiers:
   gutenberg: '67216'
